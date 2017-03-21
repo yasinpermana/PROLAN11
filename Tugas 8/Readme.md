@@ -1,4 +1,5 @@
-Program ini dibuat karena saya sangat menyukai hobi ini dan untuk keperluan tugas
+Saya sangat menyukai hobi ini yaitu merakit gundam, maka dari itu saa membuat program ini 
+yang berfungsi untuk mencari tau beberapa macam gundam dan Type gundam itu sendiri.
 
 Sedikit penjelasan tentang apa itu Gundam/Gunpla.
 Gunpla adalah versi kecil dari Gundam yang sebenarnya. Gunpla memiliki beberapa grade yaitu SD, HG, RG, MG, PG 
