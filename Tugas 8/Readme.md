@@ -1,4 +1,4 @@
-Saya sangat menyukai hobi ini yaitu merakit gundam, maka dari itu saa membuat program ini 
+Saya sangat menyukai hobi ini yaitu merakit gundam, maka dari itu saya membuat program ini 
 yang berfungsi untuk mencari tau beberapa macam gundam dan Type gundam itu sendiri.
 
 Sedikit penjelasan tentang apa itu Gundam/Gunpla.
