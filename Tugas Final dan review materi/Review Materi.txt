@@ -1,0 +1,125 @@
+﻿Pertemuan 1(Helloworld.java)
+
+Pendahuluan
+- Silabus.
+- Aturan penyelesaian.
+- Pengenalan
+  java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam. Bahasa ini awalnya dibuat oleh James Gosling saat masih bergabung di Sun Microsystems saat ini merupakan bagian dari Oracle dan dirilis tahun 1995. Bahasa ini banyak mengadopsi sintaksis yang terdapat pada C dan C++ namun dengan sintaksis model objek yang lebih sederhana serta dukungan rutin-rutin aras bawah yang minimal. Aplikasi-aplikasi berbasis java umumnya dikompilasi ke dalam p-code (bytecode) dan dapat dijalankan pada berbagai Mesin Virtual Java (JVM). Java merupakan bahasa pemrograman yang bersifat umum/non-spesifik (general purpose), dan secara khusus didisain untuk memanfaatkan dependensi implementasi seminimal mungkin.
+- Tutorial instalasi Java, JDE, JDK, dan Netbeans.
+- Membuat program pertama Helloworld.java.
+- Membuat akun Github dan cara memnggunakannya.
+
+
+Pertemuan 2(pertemuan 2)
+
+Pengenalan Variabel
+- Pengenalan class
+  Class merupakan konsep pokok di bahasa pemrograman berorientasi obyek, demikian pula di java. Class mendefinisikan bentuk dan perilaku obyek. Sembarang konsep/abstraksi yang diimplementasikan di java harus dikapsulkan dalam class. Pemrograman di java tidak mungkin dipisahkan dari class.
+- Pengenalan objek
+  Sebuah obyek adalah sebuah instance (keturunan) dari class. Pada dunia perangkat lunak, sebuah obyek adalah sebuah komponen perangkat lunak yang stukturnya mirip dengan obyek pada dunia nyata.
+
+  
+Pertemuan 3(pertemuan 3 & tugas 3)
+
+Tipe Data
+- Pengenalan Tipe Data
+  Pengertian dan Jenis-jenis Tipe Data/ Data Type didalam Dunia Pemrograman. Tipe Data adalah jenis nilai yang dapat ditampung oleh suatu variabel.
+- Macam - macam Tipe Data
+  Integer, Real, Char, Boolean, Array, Struct, image, Date Time, Object, Enumerasi, String.
+  
+
+Pertemuan 4(tugas 4)
+
+Method Konstruktor This Atribut
+
+- Pengenalan Method
+  Method adalah prosedur/fungsi yang dimiliki oleh sebuah Object. Karena pada dasarnya merupakan prosedur/fungsi, maka method ini akan mengolah atau mengubah data/variable yang ada di dalam Object sesuai dengan operasi yang dilakukan.
+- Method dengan keyword void dan return type.
+- Pengenalan Konstruktor
+  Method khusus yang akan dijalankan secara otomatis pada saat sebuah objek dibuat (instansiasi), yakni ketika perintah “new” dijalankan.
+- Pengenalan keyword this
+  menggunakan keyword “this” untuk merujuk pada class/instance yang berada di dalam definisi class tersebut.
+  
+
+Pertemuan 5(tugas 8, tugas 9)
+
+
+Inheritance Super
+
+- Pengenalan Inheritance
+  Inheritance atau turunan merupakan salah satu fitur dari pemrograman OOP dimana satu Class menuruni satu atau banyak class lainnya.
+- Pengenalan Super
+  Dengan menggunakan keyword super ini, subclass dapat memanggil constructor yang ada pada superclass.
+  
+
+Pertemuan 6(tugas 5, tugas 6, tugas 7)
+
+Quiz
+
+- Latihan Study kasus
+
+
+Pertemuan 7(Tugas 10)
+
+Override
+
+- Pengenalan Override
+  Overriding Merupakan Suatu Keadaan Dimana kelas anak dapat mengubah atau bisa kita bilang memodifikasi atau memperluas data dan method pada kelas induk
+- Aturan Overriding
+  *Method yang di Override adalah method yang diturunkan melalui proses inheritance.
+  *method dengan access final dan private tidka bisa di override
+  
+  
+Pertemuan 8(Tugas 11)
+
+Abstraction
+
+- Pengenalan Abstraction
+  *Abstraksi adalah proses menyembunyikan detail proses yang dilakukan.
+  *hanya fungsionalitas saja yang ditambilkan.
+  *dengan kata lain, abstraksi pada OOP adalah sebuah proses atau aksi apa yang objek lakukan, bukan tentang bagaimana objek tersebut melakukan sebuah proses atau sebuah aksi.
+- Abstraksi pada java
+  *pada java, abstraksi ditunjukan melalui penggunaan keyword abstract pada deklarasi kelas.
+  *Selanjutnya disebut dengan kelas abstrak.
+  *Kelas abstrak dapat memiliki atau dapat tidak memiliki sebuah method abstrak atau abstract method.
+  *Abstract method adalah sebuah method yang tidak memiliki implementasi methdd.
+
+  
+Pertemuan 9(Tugas 12)
+
+Encapsulation
+
+- Pengenalan Encapsulation
+  *Enkapsulasi adalah salah satu konsep penting pada OOp setelah inheritance, polyphorphism, dan abstraction.
+  *Enkapsulasi adalah sebuah proses atau mekanisme yang membungkus data dan fungsi dari sebuah kelas menjadi sebuah unit.
+  *Konsep enkapsulasi juga dikenal sebagai konsep data hiding, yaitu menghidden atribut dari sebuah kelas dari kelas lain.
+  *Di enkapsulasi, setiap atribut dari kelas di set private.  
+
+    
+
+Pertemuan 14
+
+Generic Method
+
+- Penggunaan Generic Method
+  Generic method digunakan untuk menyatakan tipe parameter method yang tidak berkaitan dengan tipe parameter yang dimiliki kelas. menyatakan tipe generik untuk parameter method, tipe generik dapat disimpulkan dari parameer yang digunakan).
+
+  
+Pertemuan 15
+
+Packages
+
+- Pengenalan Packages
+  *Packages digunakan untuk menghindari konflik penamaan kelas, interface, dll.
+  *Packages juga berguna sebagai akses kontrol dan penempatan atau pencarian keals, interface, dll.
+  *Packages dapat didefinisikan sebagai sekumpulan kelas, interface yang saling berhubungan satu sama lain.
+- Cara membuat packages (bukan di netbeans)
+
+  
+Pertemuan 16
+
+Review Materi
+
+- Revie kembali dari materi pertama sampai terakhir.
+
+  
